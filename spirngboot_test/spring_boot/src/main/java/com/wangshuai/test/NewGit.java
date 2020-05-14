@@ -28,6 +28,8 @@ public class NewGit {
 
 
 
+        int i3=4;
+
 
     }
 }
