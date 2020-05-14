@@ -20,6 +20,9 @@ public class NewGit {
         int i =1;
 
 
+        int  i1=3;
+
+
 
     }
 }
