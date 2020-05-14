@@ -25,10 +25,14 @@ public class NewGit {
         System.out.println("hehe");
 
 
+        System.out.println("hahdahd");
+
+        int i3=5;
 
 
+        System.out.println("shuodasdasd");
 
-        int i3=4;
+        int i2=4;
 
 
     }
